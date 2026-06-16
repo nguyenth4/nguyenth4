@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nguyenth4&label=Profile+Views&color=F700FF&style=for-the-badge" />
+<!-- <img src="https://komarev.com/ghpvc/?username=nguyenth4&label=Profile+Views&color=F700FF&style=for-the-badge" /> -->
 
 </div>
 
