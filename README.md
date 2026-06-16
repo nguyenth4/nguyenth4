@@ -32,7 +32,7 @@ mindset: Learn → Build → Optimize → Repeat
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,java,cs,cpp,go,kotlin" />
+<img src="https://skillicons.dev/icons?i=js,ts,php" />
 
 ### 🌐 Frontend
 
@@ -40,7 +40,7 @@ mindset: Learn → Build → Optimize → Repeat
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
 
 ### 🛢️ Database
 
@@ -60,8 +60,6 @@ mindset: Learn → Build → Optimize → Repeat
 | ------------------------- | --------------------------- | --------------- |
 | 🛒 **E-commerce Website** | Web bán hàng full chức năng | PHP, MVC, MySQL |
 | 📦 **Admin Dashboard**    | Quản lý sản phẩm & đơn hàng | NodeJS, Express |
-| 🤖 **AI Chatbot**         | Chat thông minh             | Python          |
-| 📱 **Task Manager**       | Quản lý công việc           | React           |
 
 ---
 
