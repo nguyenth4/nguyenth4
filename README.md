@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Tran+Hoang+Nguyen;Full-Stack+Developer;Building+Things+That+Matter;Always+Learning+🚀" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Tran+Hoang+Nguyen;Full-Stack+Developer;Building+Things+That+Matter;Always+Learning+🚀" /> -->
 
 <br>
 
