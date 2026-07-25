@@ -58,7 +58,7 @@ mindset: Learn → Build → Optimize → Repeat
 
 | Project                   | Description                 | Tech            |
 | ------------------------- | --------------------------- | --------------- |
-| 🛒 **E-commerce Website** | Web bán hàng full chức năng | PHP, MVC, MySQL |
+| 🛒 **E-commerce Website** | Web bán hàng full chức năng | NodeJS, ReactJS, Supabase |
 | 📦 **Admin Dashboard**    | Quản lý sản phẩm & đơn hàng | NodeJS, Express |
 
 ---
